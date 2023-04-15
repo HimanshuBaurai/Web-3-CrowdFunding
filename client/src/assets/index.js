@@ -12,6 +12,11 @@ import menu from './menu.svg';
 import money from './money.svg';
 import loader from './loader.svg';
 import thirdweb from './thirdweb.png';
+import isolatedmonochromewhite from './isolated-monochrome-white.svg';
+import default1 from './default.svg'
+import default2 from './default(2).svg'
+import defaultmonochrome from './default-monochrome-black.svg'
+import defaultmonochrome1 from './default-monochrome.svg'
 
 export {
   tagType,
@@ -28,4 +33,9 @@ export {
   money,
   loader,
   thirdweb,
+  isolatedmonochromewhite,
+  default1,
+  default2,
+  defaultmonochrome,
+  defaultmonochrome1,
 };
